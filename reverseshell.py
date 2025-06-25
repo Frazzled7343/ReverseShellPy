@@ -34,29 +34,6 @@ Testing and Deployment:
 -Test the tool on your own network to ensure it works as expected.
 -Deploy the tool securely, ensuring it is only accessible to authorized users.
 -Implement logging and monitoring to track the tool's usage and detect any suspicious activity.
-
-So we are doing it in html kinda style? 
-might as well
-i can start on the web interface and you can start on the reverse shell payload
-sure   
-so you are frontend and i am backend and together we are fullstack :) :) 
-:)
-hell yeah lets go
-We should buy a raspberry pi and make a little server out of it
-We could get the user to locally host it like the miku ddos
-yeah prolly would be better
-idk how to do that though
-
-maybe a domain name too
-lets see though
-anyway 
-I can add a new file to this which is html + css which you can work on 
-yeah
-okay 
-Byeee
-gonna shit first 
-have fun :)
-# Lets do a little plan, slightly pseudocodey 
 '''
 
 
