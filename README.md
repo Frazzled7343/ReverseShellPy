@@ -10,3 +10,27 @@ Select from listener types: netcat, powercat, pwncat, or msfconsole
 Generate payloads for Bash (Linux) or Powershell (Windows)
 
 Interactive terminal-style interface with error handling and built-in help
+
+🛠️ Tech Stack
+
+Python (main logic)
+
+Terminal interface (text-based interaction)
+
+Planned: HTML/CSS/JS frontend for browser-based use
+
+🔜 In Progress
+Cross-platform payload support
+
+Web UI (hosted locally or via Raspberry Pi)
+
+Extra listener options and OS detection
+
+Encoding/encryption features for safe sandbox testing
+
+🤝 Credits
+Built by:
+Frazzled7343 – Backend logic, payload builder
+OhnoMain – Planned frontend & design
+
+Feel free to fork!!
